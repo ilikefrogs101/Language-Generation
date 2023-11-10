@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fc7f200a5d3ae3c09caac528c865c0e, type: 3}
+  m_Name: Example Alphabet
+  m_EditorClassIdentifier: 
+  Name: Example
+  minimum: 2
+  maximum: 10
+  possibleIncrease: 0
+  vowelStartChance: 40
+  sounds:
+  - sound: a
+    vowel: 1
+    frequency: 8.2
+  - sound: b
+    vowel: 0
+    frequency: 1.5
+  - sound: c
+    vowel: 0
+    frequency: 2.8
+  - sound: d
+    vowel: 0
+    frequency: 4.3
+  - sound: e
+    vowel: 1
+    frequency: 12.7
+  - sound: f
+    vowel: 0
+    frequency: 2.2
+  - sound: g
+    vowel: 0
+    frequency: 2
+  - sound: h
+    vowel: 0
+    frequency: 6.1
+  - sound: i
+    vowel: 1
+    frequency: 7
+  - sound: j
+    vowel: 0
+    frequency: 0.15
+  - sound: k
+    vowel: 0
+    frequency: 0.77
+  - sound: l
+    vowel: 0
+    frequency: 4
+  - sound: m
+    vowel: 0
+    frequency: 2.4
+  - sound: n
+    vowel: 0
+    frequency: 6.7
+  - sound: o
+    vowel: 1
+    frequency: 7.5
+  - sound: p
+    vowel: 0
+    frequency: 1.9
+  - sound: q
+    vowel: 0
+    frequency: 0.095
+  - sound: r
+    vowel: 0
+    frequency: 6
+  - sound: s
+    vowel: 0
+    frequency: 6.3
+  - sound: t
+    vowel: 0
+    frequency: 9.1
+  - sound: u
+    vowel: 1
+    frequency: 2.8
+  - sound: v
+    vowel: 0
+    frequency: 0.98
+  - sound: w
+    vowel: 0
+    frequency: 2.4
+  - sound: x
+    vowel: 0
+    frequency: 0.15
+  - sound: y
+    vowel: 0
+    frequency: 2
+  - sound: z
+    vowel: 0
+    frequency: 0.074
